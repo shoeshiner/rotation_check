@@ -1,7 +1,8 @@
 name: rotation_check
 description: Simple utility to check if auto-rotate is enabled on a mobile device
 version: 0.0.1
-homepage:
+homepage: https://github.com/Andrewngabriel/rotation_check
+repository: https://github.com/Andrewngabriel/rotation_check
 
 environment:
   sdk: '>=3.0.2 <4.0.0'
